@@ -1,15 +1,21 @@
 h1 {
-    color: #fb7d92;
+  color: #fb7d92;
 }
 h2{
-    color:#fb7d92;
+  color:#fb7d92;
 }
 body {
-    background-color:#fbd8de
+  background-color:#fbd8de
 }
 p.best {
-  font-family: cursive;
+font-family: cursive;
 }
 p.flashy {
-  font-weight: bold;
+font-weight: bold;
+}
+.funfacts {
+color: #fb7d92
+}
+.highlight {
+color: red; 
 }
