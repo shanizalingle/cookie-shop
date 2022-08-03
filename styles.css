@@ -10,3 +10,6 @@ body {
 p.best {
   font-family: cursive;
 }
+p.flashy {
+  font-weight: bold;
+}
